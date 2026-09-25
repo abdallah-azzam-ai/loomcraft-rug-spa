@@ -28,12 +28,6 @@ The form in `index.html` posts JSON to an n8n webhook. `main.js` handles validat
 - Google Fonts: Fraunces + Manrope
 - Deployed on Vercel, works anywhere static
 
-## Run locally
-```bash
-python3 -m http.server 8000
-```
-Then open http://localhost:8000
-
 ## Files
 - `index.html`: page structure and quote form
 - `styles.css`: full styling
